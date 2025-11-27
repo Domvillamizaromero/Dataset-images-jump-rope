@@ -23,5 +23,5 @@ La estructura principal es:
 
 El **dataset de imágenes**  se encuentra disponible en el siguiente enlace:
 
-👉 [Enlace a Google Drive con el dataset completo](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:f:/g/personal/alejandro_rojas_mail_escuelaing_edu_co/IgAznH3bYdSzSLexKnPqtttOARn2DkzHiOnnNIOOR31KJig?e=Kiyr0u)
+👉 [Enlace a One Drive con el dataset completo](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:f:/g/personal/alejandro_rojas_mail_escuelaing_edu_co/IgAznH3bYdSzSLexKnPqtttOARn2DkzHiOnnNIOOR31KJig?e=Kiyr0u)
 
